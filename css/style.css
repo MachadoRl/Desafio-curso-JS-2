@@ -1,0 +1,27 @@
+.bg-day {
+    background-color: rgb(255, 208, 80);
+}
+
+.bg-late {
+    background-color: rgb(170, 103, 3);
+}
+
+.bg-night {
+    background-color: rgb(54, 54, 54);
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+section {
+    max-width: 70%;
+}
+
+@media (min-width: 1200px) {
+    section {
+        max-width: 30%;
+    }
+}
