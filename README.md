@@ -2,6 +2,8 @@
 
 Desafio proposto para aplicação e aprendizado de Javascript, do curso de Javascript da plataforma Curso em Vídeo lecionada por Gustavo Guanabara.
 
+O programa identifica a hora do computador e muda o estilo com base nisso.
+
 
 ## Screenshots
 
