@@ -5,6 +5,6 @@ Desafio proposto para aplicação e aprendizado de Javascript, do curso de Javas
 
 ## Screenshots
 
-![App Screenshot](imgProjeto/print1.png)
-![App Screenshot](imgProjeto/print2.png)
-![App Screenshot](imgProjeto/print3.png)
+![App Screenshot](imgGithub/print1.png)
+![App Screenshot](imgGithub/print2.png)
+![App Screenshot](imgGithub/print3.png)
